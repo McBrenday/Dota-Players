@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=n\ r\ wr\ gp\ xp
+comment0.target=DotaPlayer(java.lang.String,\ java.lang.String,\ double,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment10.params=xp
+comment10.target=void\ changeXPM(int)
+comment2.params=
+comment2.target=java.lang.String\ getRole()
+comment3.params=
+comment3.target=double\ getWinRate()
+comment4.params=
+comment4.target=int\ getGPM()
+comment5.params=
+comment5.target=int\ getXPM()
+comment6.params=n
+comment6.target=void\ changeName(java.lang.String)
+comment7.params=r
+comment7.target=void\ changeRole(java.lang.String)
+comment8.params=wr
+comment8.target=void\ changeWinRate(double)
+comment9.params=gp
+comment9.target=void\ changeGPM(int)
+numComments=11

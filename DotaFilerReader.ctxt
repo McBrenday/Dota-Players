@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ reader()
+comment1.params=n\ r\ wr\ gpm\ xpm
+comment1.target=void\ addPlayer(java.lang.String,\ java.lang.String,\ double,\ int,\ int)
+comment10.params=
+comment10.target=void\ savePlayers()
+comment2.params=
+comment2.target=void\ printPlayers()
+comment3.params=
+comment3.target=void\ printHighestGPM()
+comment4.params=
+comment4.target=void\ printHighestXPM()
+comment5.params=n
+comment5.target=void\ printWinrate(java.lang.String)
+comment6.params=r
+comment6.target=int\ amountOfPeopleWhoPlayRole(java.lang.String)
+comment7.params=sort\ amount
+comment7.target=void\ sortPlayers(java.lang.String,\ java.lang.String)
+comment8.params=n\ change\ value
+comment8.target=void\ changeSomething(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment9.params=with\ by
+comment9.target=void\ printPlayersWith(java.lang.String,\ java.lang.String)
+numComments=11
